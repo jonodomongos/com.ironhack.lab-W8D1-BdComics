@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ironhack</groupId>
-    <artifactId>com.ironhack.lab-W8D1-BdInicial</artifactId>
+    <artifactId>lab-W8D1-BdComics</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
